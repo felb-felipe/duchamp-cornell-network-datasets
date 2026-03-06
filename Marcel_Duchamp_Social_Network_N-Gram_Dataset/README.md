@@ -1,6 +1,6 @@
 # Marcel Duchamp Social Network N-Gram Dataset
 
-**Author:** Felipe Braga  
+**Author:** Felipe Eduardo Lázaro Braga  
 **Related project:** Marcel Duchamp Ego Network Dataset  
 **Source:** Google Books N-Gram Viewer (English Corpus)  
 **License:** Creative Commons Attribution 4.0 International (CC-BY 4.0)
@@ -219,4 +219,5 @@ You are free to:
 Under the following condition:
 
 - **Attribution** — appropriate credit must be given to the original author.
+
 
